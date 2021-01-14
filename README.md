@@ -1,4 +1,9 @@
-## :ledger: App Ideas Collection
+## Esse repositorio e' um fork com o intuito de incentivas ideias em Java.
+
+
+## :ledger: App
+
+ Ideas Collection
 
 ![App Ideas Image](./app-ideas.png)
 
